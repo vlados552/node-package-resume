@@ -1,1 +1,1 @@
-## #Resume for Vladislav Lannister
+# Resume for Vladislav Lannister
